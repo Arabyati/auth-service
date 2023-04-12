@@ -1,0 +1,18 @@
+{
+    "name": "arabyati/auth",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arabyati\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moheb Hawari",
+            "email": "moheb@arabyati.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
